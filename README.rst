@@ -2,7 +2,7 @@
 Pyping
 ======
 
-A pure python ping implementation using raw sockets.
+A pure python 3 ping implementation using raw sockets.
 
 Note that ICMP messages can only be sent from processes running as root
 (in Windows, you must run this script as 'Administrator').
